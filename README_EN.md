@@ -5,3 +5,5 @@ Beta Version 1.0
 Link Buckshot Roulette: https://mikeklubnika.itch.io/buckshot-roulette
 
 Language game: Portuguese Brazil.
+
+Requirements: Python 3.11.2
